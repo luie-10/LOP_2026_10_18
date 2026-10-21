@@ -1,6 +1,6 @@
 using System;
 
-class Program
+class Nomal
 {
     static void Main(string[] args)
     {
